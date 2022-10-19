@@ -1,6 +1,6 @@
 ### Hi there I'm Paula Pérez Bianchi
 
-I'm a computer science student at the University of Buenos Aires. Also, I'm a teaching assistant at Algorithms I. 
+I'm a computer science student at the University of Buenos Aires. Also, I'm a teaching assistant at Algorithms I at UBA. 
 I love AI and Robotics. I'm interested in computational complexity theory, Algorithms and Complex Data Structures
 
 😄 Pronouns: She/Her
