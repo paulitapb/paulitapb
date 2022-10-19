@@ -1,4 +1,9 @@
-### Hi there 👋
+### Hi there I'm Paula Pérez Bianchi
+
+I'm a computer science student at the University of Buenos Aires. Also, I'm a teaching assistant at Algorithms I. 
+I love AI and Robotics. I'm interested in computational complexity theory, Algorithms and Complex Data Structures
+
+😄 Pronouns: She/Her
 
 <!--
 **paulitapb/paulitapb** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
